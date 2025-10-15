@@ -1,0 +1,25 @@
+# Welcome to My Science Hub
+
+Explore my research projects, labs, and longevity protocols based on scientific research. Click on a section to learn more.
+
+------------------------------------------------------------------------
+
+## Organic Chemistry
+
+-   Laboratory experiments and reaction mechanisms
+-   Example: Acid Base Extraction of Benzoic Acid, Ethyl 4-Aminobenzoate, and Naphthalene\
+    [**Go to Organic Chemistry →**](https://rpubs.com/surfinkiwi/1355152)
+
+------------------------------------------------------------------------
+
+## Membranes
+
+-   This is a little interactive project where I played around with membrane behavior. You can see how lipid composition and temperature affect fluidity in real time.\
+    [**Go to Membranes →**](https://cellmitos.shinyapps.io/biowebsite/)
+
+------------------------------------------------------------------------
+
+## Longevity Protocol
+
+-   These interventions are supported by research and have measurable effects on biological age. For full study details and protocols visit the linked page.\
+    [**Go to Longevity Protocol →**](https://cellmitos.shinyapps.io/longevity_interventions1/)

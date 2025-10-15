@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Science Hub",
+    "section": "",
+    "text": "Explore my research projects, labs, and longevity protocols based on scientific research. Click on a section to learn more.\n\n\n\n\nLaboratory experiments and reaction mechanisms\nExample: Acid Base Extraction of Benzoic Acid, Ethyl 4-Aminobenzoate, and Naphthalene\nGo to Organic Chemistry →\n\n\n\n\n\n\nThis is a little interactive project where I played around with membrane behavior. You can see how lipid composition and temperature affect fluidity in real time.\nGo to Membranes →\n\n\n\n\n\n\nThese interventions are supported by research and have measurable effects on biological age. For full study details and protocols visit the linked page.\nGo to Longevity Protocol →"
+  },
+  {
+    "objectID": "index.html#organic-chemistry",
+    "href": "index.html#organic-chemistry",
+    "title": "Welcome to My Science Hub",
+    "section": "",
+    "text": "Laboratory experiments and reaction mechanisms\nExample: Acid Base Extraction of Benzoic Acid, Ethyl 4-Aminobenzoate, and Naphthalene\nGo to Organic Chemistry →"
+  },
+  {
+    "objectID": "index.html#membranes",
+    "href": "index.html#membranes",
+    "title": "Welcome to My Science Hub",
+    "section": "",
+    "text": "This is a little interactive project where I played around with membrane behavior. You can see how lipid composition and temperature affect fluidity in real time.\nGo to Membranes →"
+  },
+  {
+    "objectID": "index.html#longevity-protocol",
+    "href": "index.html#longevity-protocol",
+    "title": "Welcome to My Science Hub",
+    "section": "",
+    "text": "These interventions are supported by research and have measurable effects on biological age. For full study details and protocols visit the linked page.\nGo to Longevity Protocol →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
